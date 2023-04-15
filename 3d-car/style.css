@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    overflow: hidden;
+    background: url("https://images.hdqwalls.com/download/lamborghini-victoria-in-pink-city-4k-p3-1280x720.jpg");
+    background-size: cover;
+    
+  }
+  
+  .scene,
+  canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  
